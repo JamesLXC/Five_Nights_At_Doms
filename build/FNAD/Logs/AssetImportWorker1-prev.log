@@ -15,11 +15,11 @@ C:/Users/gk.gr/Documents/GitHub/Five_Nights_At_Doms/build/FNAD
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-52218
+52992
 Successfully changed project path to: C:/Users/gk.gr/Documents/GitHub/Five_Nights_At_Doms/build/FNAD
 C:/Users/gk.gr/Documents/GitHub/Five_Nights_At_Doms/build/FNAD
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 112.03 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 92.07 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,73 +35,65 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56044
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001982 seconds.
+Registered in 0.001981 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 84.79 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 85.92 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.054 seconds
+- Completed reload, in  2.025 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.016423 seconds.
+Registered in 0.015883 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.00 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.172 seconds
+- Completed reload, in  1.123 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4152 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 137.9 MB.
-System memory in use after: 138.0 MB.
+System memory in use after: 138.1 MB.
 
 Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 4722.
-Total: 2.422400 ms (FindLiveObjects: 0.294000 ms CreateObjectMapping: 0.216900 ms MarkObjects: 1.832900 ms  DeleteObjects: 0.077300 ms)
+Total: 2.239600 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.207300 ms MarkObjects: 1.671800 ms  DeleteObjects: 0.065200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(13c6d12b96118ce45b20f88d27370db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(13c6d12b96118ce45b20f88d27370db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d44bdcfb4e0b0447e57cffed83f2808') in 0.010498 seconds 
+  path: Assets/PMTemps
+  artifactKey: Guid(f537ba7315adbd740a219b21276b9fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PMTemps using Guid(f537ba7315adbd740a219b21276b9fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de8848b9f58af6f90b83d8c8067f508') in 0.007898 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1124.898037 seconds.
-  path: Assets/Scenes/MainMenu.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MainMenu.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9808329dd08ffa633d33c0c07c83774') in 0.009990 seconds 
+  Time since last request: 0.063690 seconds.
+  path: Assets/PMTemps/6AmCountdownNextLvl.asset
+  artifactKey: Guid(f72f9e1ea341c9f4097670d994ad247c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PMTemps/6AmCountdownNextLvl.asset using Guid(f72f9e1ea341c9f4097670d994ad247c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6421c23d178281183a7688ab535ce20a') in 0.102994 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.181921 seconds.
+  Time since last request: 0.000324 seconds.
+  path: Assets/PMTemps/AmCounter.asset
+  artifactKey: Guid(85fc294d76bdca44d97dc86fc61df5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PMTemps/AmCounter.asset using Guid(85fc294d76bdca44d97dc86fc61df5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266525aea9f261e454a2c06515d719ed') in 0.003012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 197.563114 seconds.
   path: Assets/Scenes/Teststuff.unity
   artifactKey: Guid(ca67b5ae1bc05ae45a4513ebdb1ad0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Teststuff.unity using Guid(ca67b5ae1bc05ae45a4513ebdb1ad0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11c4a61802ad3b75135cb2a74814f3d') in 0.002725 seconds 
+Start importing Assets/Scenes/Teststuff.unity using Guid(ca67b5ae1bc05ae45a4513ebdb1ad0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2615fba9c05bebe9c9b8342cb95a6297') in 0.003054 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.015644 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.025 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4146 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 138.1 MB.
-System memory in use after: 138.3 MB.
-
-Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4725.
-Total: 2.225700 ms (FindLiveObjects: 0.296400 ms CreateObjectMapping: 0.215200 ms MarkObjects: 1.668000 ms  DeleteObjects: 0.045100 ms)
-
+Received Import Request.
+  Time since last request: 6.133005 seconds.
+  path: Assets/Scenes/Teststuff.unity
+  artifactKey: Guid(ca67b5ae1bc05ae45a4513ebdb1ad0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Teststuff.unity using Guid(ca67b5ae1bc05ae45a4513ebdb1ad0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc9c1c9cd742f37814990580b8827a48') in 0.002286 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
